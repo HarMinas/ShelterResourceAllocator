@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>CTC Gas Station</name>
+    <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+    <Point>
+      <coordinates>34.1688, -118.1213</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>Rite Aid</name>
+    <Point><coordinates>34.169565, - 118.120775 </coordinates></Point>
+  </Placemark>   
+   <Placemark>
+    <name>Coffee Shopy</name>
+    <Point><coordinates>34.169218, -118.122106</coordinates></Point>
+  </Placemark>
+    <Placemark>
+    <name>CAMP gym</name>
+    <Point> <coordinates>34,168898, -118,121796</coordinates> </Point>
+  </Placemark>
+    <Placemark>
+    <name>Lark Cake</name>
+    <Point><coordinates>34.169509, -118.121722</coordinates></Point>
+  </Placemark>
+    <Placemark>
+    <name>Flawlesss</name>
+    <Point><coordinates>34.168934, -118.120487</coordinates></Point>
+  </Placemark>
+      <Placemark>
+    <name>Nazarene Church</name>
+    <Point><coordinates>34.168867, -118.119457</coordinates></Point>
+  </Placemark>
+      <Placemark>
+    <name>Connals</name>
+    <Point><coordinates>34.169272, -118.119556</coordinates></Point>
+  </Placemark>
+      <Placemark>
+    <name>Body Shop</name>
+    <Point><coordinates>34.169221, -118.119938</coordinates></Point>
+  </Placemark>
+</kml>
